@@ -1,0 +1,6 @@
+architecture,parameters,epochs_run,val_accuracy,val_loss,test_accuracy,test_loss
+lstm,66031,19,0.8618,0.4077,0.8643,0.4060
+bilstm,106223,16,0.8598,0.4005,0.8635,0.4009
+cnn_rnn,166559,10,0.8708,0.3756,0.8693,0.3879
+cnn_lstm,225119,9,0.8752,0.3439,0.8748,0.3593
+cnn_bilstm,385119,9,0.8761,0.3442,0.8762,0.3599

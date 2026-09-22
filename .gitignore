@@ -1,0 +1,22 @@
+# Data (see README for download instructions)
+data/
+
+# Trained artefacts
+*.keras
+*.h5
+results/*_history.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
